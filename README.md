@@ -12,8 +12,7 @@ Qu'est-ce qu'on a fait :
 
 ## Credits
 
-```json
-
+```
     1. Tensorflow (CPU, HUB),
     2. Numpy,
     3. Pandas,
